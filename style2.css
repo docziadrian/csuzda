@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+    color: white !important;
+}
+
+
+img{
+    border: 1px solid black;
+}
+
+table{
+    color: white;
+    text-align: justify;
+}
+
+a{
+    color: white;
+    text-decoration-color: white;
+}
+
+td, td{
+    text-align: justify !important;
+}

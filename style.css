@@ -1,0 +1,37 @@
+body{
+    background-color: darkslategray;
+    font-size: 0.9em;
+}
+
+#cim{
+    text-align: center;
+    color: white;
+}
+
+table{
+    background-image: url('./hatter.jpg');
+    padding: 5px;
+    margin: 5px;
+    text-align: justify;
+}
+
+a{
+    color: black;
+    text-decoration-color: black;
+}
+
+img{
+    border: 1px solid black;
+}
+
+p{
+    font-size: 1.4em;
+}
+
+p{
+    text-align: left;
+}
+
+a{
+    font-size: 1.1em;
+}
